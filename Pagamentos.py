@@ -17,3 +17,6 @@ elif option == 4:
     print("Você pagará R$%.2f reais" %parce)
 else:
     print("Opção inválida !!! Tente novamente.")
+
+
+#teste commit git#
